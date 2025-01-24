@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    width: 600px;
+    height: 200px;
+    border: 3px solid;
+    border-radius: 19px;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.block{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.one{
+    font-size: 95px;
+}
+.two{
+    font-size: 95px
+}
+.three{
+    font-size: 95px;
+}
+.four{
+    font-size: 95px;
+}
+.fa-instagram{
+    color: red;
+    border: 2px solid ;
+}
+.fa-google{
+    color: sandybrown;
+    border: 2px solid;
+}
+.fa-money{
+    color: green;
+    border: 2px solid;
+}
+.fa-television{
+    color: gold;
+    border: 2px solid;
+}
